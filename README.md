@@ -1,5 +1,22 @@
+
 # 💫 About Me:
-# Hey, I'm dan1sh-code 👋<br><br>💻  U can call me fadhlan as a Informatics Engineering student passionate about technology, software development, and building creative digital experiences.<br><br>I enjoy exploring modern technologies and creating projects related to Web Development, IoT, Artificial Intelligence, and interactive systems. Most of my time is spent learning new things, improving my coding skills, and turning ideas into real-world applications.<br><br>🚀 Currently focused on:<br><br>* Full Stack Development<br>* Embedded Systems & IoT<br>* Artificial Intelligence<br>* UI/UX & Interactive Design<br>* Algorithms & Problem Solving<br><br>I believe consistency and curiosity are the keys to becoming a better developer every day.<br><br>```text id="m3msqv"<br>Code • Learn • Build • Improve • Repeat<br>```<br><br>🌱 Always learning something new and building projects one step at a time.<br>
+# Hey, I'm dan1sh-code 👋<br><br>
+
+💻 You can call me Fadhlan, an Informatics Engineering student passionate about technology, software development, and creative digital projects.<br><br>
+
+🚀 Interested in:<br><br>
+
+* Full Stack Development  
+* IoT & Embedded Systems  
+* Artificial Intelligence  
+* UI/UX Design<br><br>
+
+🌱 Always learning, building, and improving every day.<br><br>
+
+`text
+Code • Learn • Build • Repeat
+
+
 
 
 ## 🌐 Socials:
