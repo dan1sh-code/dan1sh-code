@@ -15,10 +15,7 @@
 
 text
 ✦ Code • Learn • Build • Repeat ✦
-````
 
-```
-```
 
 
 
