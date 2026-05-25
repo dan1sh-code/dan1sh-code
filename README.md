@@ -1,20 +1,25 @@
 
-# 💫 About Me:
-# Hey, I'm dan1sh-code 👋<br><br>
 
-💻 You can call me Fadhlan, an Informatics Engineering student passionate about technology, software development, and creative digital projects.<br><br>
+✦ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
+𝐇𝐞𝐲, 𝐈'𝐦 dan1sh-code 👋<br><br>
 
-🚀 Interested in:<br><br>
+💻 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐜𝐚𝐥𝐥 𝐦𝐞 𝐅𝐚𝐝𝐡𝐥𝐚𝐧, 𝐚𝐧 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐚𝐧𝐝 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.<br><br>
 
-* Full Stack Development  
-* IoT & Embedded Systems  
-* Artificial Intelligence  
-* UI/UX Design<br><br>
+ 🚀 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐈𝐧
+- 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭  
+- 𝐈𝐨𝐓 & 𝐄𝐦𝐛𝐞𝐝𝐝𝐞𝐝 𝐒𝐲𝐬𝐭𝐞𝐦𝐬  
+- 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞  
+- 𝐔𝐈/𝐔𝐗 𝐃𝐞𝐬𝐢𝐠𝐧<br><br>
 
-🌱 Always learning, building, and improving every day.<br><br>
+## 🌱 𝐀𝐥𝐰𝐚𝐲𝐬 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐈𝐦𝐩𝐫𝐨𝐯𝐢𝐧𝐠 𝐄𝐯𝐞𝐫𝐲 𝐃𝐚𝐲.<br><br>
 
-`text
-Code • Learn • Build • Repeat
+text
+✦ Code • Learn • Build • Repeat ✦
+````
+
+```
+```
+
 
 
 
